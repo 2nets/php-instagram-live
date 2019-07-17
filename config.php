@@ -1,7 +1,7 @@
 <?php
 //Instagram Credentials
-define('IG_USERNAME', 'ateriadlive');
-define('IG_PASS', 'Ali123456789');
+define('IG_USERNAME', '');
+define('IG_PASS', '');
 
 /*
  * Settings below this line are optional!
