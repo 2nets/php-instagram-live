@@ -1,6 +1,7 @@
 {
-    "name": "miladrahimi/php-instagram-live",
-    "require": {
-      "mgp25/instagram-php": "dev-master#e79acc05cd9d690f663a68da2b6a1549d3df29e7"
-    }
+  "name": "miladrahimi/php-instagram-live",
+  "require": {
+    "php": ">7.1",
+    "mgp25/instagram-php": "dev-master#e79acc05cd9d690f663a68da2b6a1549d3df29e7"
+  }
 }

@@ -1,8 +1,7 @@
 <?php
 /** @noinspection PhpUndefinedConstantInspection */
-/** @noinspection PhpComposerExtensionStubsInspection */
 
-require_once __DIR__ . '/vendor/autoload.php';
+/** @noinspection PhpComposerExtensionStubsInspection */
 
 use InstagramAPI\Exception\ChallengeRequiredException;
 use InstagramAPI\Instagram;
